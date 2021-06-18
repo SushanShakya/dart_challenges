@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="studio.sdev.prog_soln">
    <application
-        android:label="prog_soln"
+        android:label="Dart Challenges"
         android:icon="@mipmap/dart">
         <activity
             android:name=".MainActivity"
